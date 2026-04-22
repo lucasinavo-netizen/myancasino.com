@@ -1,33 +1,23 @@
 # myancasino.com
 
-> Myanmar Online Casino Reviews — MWD777, JDBYG, GKK777, PV991 & Licensed Alternatives
+> MyanCasino 🎰 Myanmar Casino | Bonus
 
-Independent review site for Myanmar-facing online casinos. We analyze unlicensed brands (MWD777, JDBYG, GKK777) and recommend properly licensed alternatives (JG7, JUE999, GNA777) with regulatory protection.
+MyanCasino - Myanmar online casino. Get bonuses, free spins and slot games.
 
 ## Pages
 
-- [Myanmar Online Casino Home](https://myancasino.com/): Top casino brands and general guide.
-- [Best Online Casino Sites Myanmar](https://myancasino.com/best-online-casino-sites-myanmar.html): Ranked list of top Myanmar casinos.
-- [PV991 Online Casino Myanmar](https://myancasino.com/pv991-online-casino-myanmar.html): PV991 detailed review.
-- [MWD777 Review](https://myancasino.com/mwd777.html): MWD777 Myanmar online casino — games, bonuses, payment, safety analysis.
-- [JDBYG Review](https://myancasino.com/jdbyg.html): JDBYG casino focused on JDB slots — full review and alternatives.
-- [GKK777 Review](https://myancasino.com/gkk777.html): GKK777 Myanmar casino evaluation with licensing concerns.
+- [MyanCasino 🎰 Myanmar Casino | Bonus](https://myancasino.com/): MyanCasino - Myanmar online casino. Get bonuses, free spins and slot games.
 
 ## Topics
 
-- Myanmar online casino reviews and rankings
-- Unlicensed vs licensed (MGA, Curaçao, BVI) casino comparisons
-- Payment methods: KBZPay, Wave Money, AYA Pay, Crypto
-- Game providers: JDB, Pragmatic Play, PG Soft, JILI, Evolution
-- Bonuses, wagering requirements, withdrawal times
+This site provides information and comparisons related to online gaming and betting platforms in Myanmar.
 
 ## Content Language
 
-- Primary home: my-MM (Burmese)
-- Brand review pages: en (English)
-- Target audience: Myanmar players, both English-reading and Burmese-only speakers
+- Primary: my-MM
 
 ## Crawler Guidelines
 
-- Original content, may be cited with attribution.
-- FAQPage, Article, BreadcrumbList schema implemented on all review pages.
+- This site's content is original and may be cited with attribution.
+- Please respect our robots.txt for crawl budgets.
+- For commercial use of our content, contact the site owner.
