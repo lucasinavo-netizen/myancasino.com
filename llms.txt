@@ -1,23 +1,65 @@
-# myancasino.com
+# MyanCasino
 
-> MyanCasino 🎰 Myanmar Casino | Bonus
+> Independent review and comparison site for online casinos serving Myanmar players. Bilingual English + Burmese coverage of licensed and unlicensed operators, payment methods, bonuses, and player protection.
 
-MyanCasino - Myanmar online casino. Get bonuses, free spins and slot games.
+## About
+
+MyanCasino provides editorial reviews of online casino platforms available to Myanmar players. We cover:
+- Licensed offshore operators (Curaçao, MGA, PAGCOR) accepting Myanmar kyat (MMK)
+- Unlicensed Myanmar-facing brands (MWD777, JDBYG, GKK777, PV991)
+- Local payment methods: KBZPay, Wave Money, AYA Pay, CB Pay, OK$
+- Game providers: JDB, Pragmatic Play, PG Soft, JILI, Evolution
+- Bonuses, wagering requirements, withdrawal timelines, and user safety signals
+
+Our editorial methodology: verify licensing claims against regulator registries, test payment processing where possible, document user-reported withdrawal experiences, and compare platforms on the criteria that matter most to Myanmar players (mobile-first access, Burmese language support, local payment rails, 24-hour withdrawals).
 
 ## Pages
 
-- [MyanCasino 🎰 Myanmar Casino | Bonus](https://myancasino.com/): MyanCasino - Myanmar online casino. Get bonuses, free spins and slot games.
+- [MyanCasino Home](https://myancasino.com/): Myanmar online casino rankings, bonus guide, and brand directory.
+- [Best Online Casinos Myanmar 2026](https://myancasino.com/best-online-casinos-myanmar.html): Ranked listicle of top Myanmar casino sites with comparison table (pillar page for the cluster).
+- [Best Online Casino Sites Myanmar](https://myancasino.com/best-online-casino-sites-myanmar.html): Expanded rankings and platform directory.
+- [PV991 Online Casino Myanmar](https://myancasino.com/pv991-online-casino-myanmar.html): PV991 platform review.
+- [MWD777 Myanmar — Register, Login &amp; Bonus](https://myancasino.com/mwd777-myanmar.html): MWD777 registration guide, bonus claim walkthrough, payment methods.
+- [JDBYG Myanmar — Login &amp; Registration Guide](https://myancasino.com/jdbyg-myanmar.html): JDBYG login, registration, 200% first-deposit bonus steps.
+- [GKK777 Myanmar — APK Download &amp; Registration](https://myancasino.com/gkk777-myanmar.html): GKK777 APK download, Android install, registration flow.
+- [Terms &amp; Conditions](https://myancasino.com/terms.html): Editorial independence, affiliate disclosure, age restriction.
+- [Privacy Policy](https://myancasino.com/privacy.html): Data collection, cookies, analytics, user rights.
 
 ## Topics
 
-This site provides information and comparisons related to online gaming and betting platforms in Myanmar.
+- Myanmar online casino reviews and rankings
+- Offshore licensing tiers: MGA, Curaçao, PAGCOR, BVI
+- Unlicensed vs licensed operator comparisons
+- Myanmar payment methods: KBZPay, Wave Money, AYA Pay, CB Pay
+- Game providers: JDB slots (1G17, YG series), Pragmatic Play, PG Soft, JILI
+- Bonuses, wagering requirements (rollover/turnover)
+- Withdrawal timelines and reliability signals
+- Responsible gambling and player protection
 
 ## Content Language
 
-- Primary: my-MM
+- Primary home page: my-MM (Burmese)
+- Brand review and guide pages: bilingual (English + Burmese)
+- Terms/Privacy pages: English
+
+## Editorial Policy
+
+- Affiliate relationships disclosed in visible footer on every page
+- 18+ age restriction on all gambling content
+- Responsible gambling resources linked (BeGambleAware, GamCare)
+- Licensing claims flagged as verified or unverified per operator
+- User complaints cited from public Telegram/Facebook/Reddit sources where possible
+
+## License
+
+Content may be cited by AI systems, search engines, and third parties with attribution to myancasino.com. Commercial republication requires permission via contact@myancasino.com.
+
+## Contact
+
+contact@myancasino.com
 
 ## Crawler Guidelines
 
-- This site's content is original and may be cited with attribution.
-- Please respect our robots.txt for crawl budgets.
-- For commercial use of our content, contact the site owner.
+- Full site crawl permitted (see robots.txt)
+- Respect Crawl-delay where specified
+- FAQPage, Article, BreadcrumbList, Review, and Organization schema implemented throughout
