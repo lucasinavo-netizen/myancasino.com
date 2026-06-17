@@ -1,2 +1,10 @@
 /go/c   https://www.rr95k.com/?ch=0cf28df51e   302!
-/best-online-casino-sites-myanmar  /best-online-casino-sites-myanmar.html  301
+
+# 統一 brand pages 到 .html canonical(配合 sitemap + canonical tag)
+# 用 ! 強制 redirect,即使 .html 檔案存在,Netlify 預設 "Pretty URLs" 也要被覆蓋
+/best-online-casino-sites-myanmar  /best-online-casino-sites-myanmar.html  301!
+/best-online-casinos-myanmar       /best-online-casinos-myanmar.html       301!
+/jdbyg-myanmar                      /jdbyg-myanmar.html                      301!
+/mwd777-myanmar                     /mwd777-myanmar.html                     301!
+/gkk777-myanmar                     /gkk777-myanmar.html                     301!
+/pv991-online-casino-myanmar       /pv991-online-casino-myanmar.html       301!
