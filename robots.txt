@@ -3,40 +3,47 @@
 
 User-agent: *
 Allow: /
+Disallow: /go/
 
 # Explicit AI search crawler cooperation
 User-agent: GPTBot
 Allow: /
+Disallow: /go/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /go/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /go/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /go/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /go/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /go/
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /go/
 
 User-agent: CCBot
 Allow: /
+Disallow: /go/
 
 User-agent: Bytespider
 Allow: /
+Disallow: /go/
 
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://myancasino.com/sitemap.xml
-
-
-User-agent: *
 Disallow: /go/
+Sitemap: https://myancasino.com/sitemap.xml

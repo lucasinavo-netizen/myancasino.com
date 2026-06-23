@@ -1,4 +1,5 @@
-/go/c   https://www.rr95k.com/?ch=0cf28df51e   302!
+/go/c  https://www.rr95k.com/?ch=0cf28df51e  302!
+/go/c2 https://www.mm38aa.com/m/home?affiliateCode=lu0001 302!
 
 # 統一 brand pages 到 .html canonical(配合 sitemap + canonical tag)
 # 用 ! 強制 redirect,即使 .html 檔案存在,Netlify 預設 "Pretty URLs" 也要被覆蓋
