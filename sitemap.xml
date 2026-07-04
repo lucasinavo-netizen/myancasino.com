@@ -1,31 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://myancasino.com/</loc>
-    <lastmod>2026-04-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://myancasino.com/best-online-casinos-myanmar.html</loc>
-    <lastmod>2026-04-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/best-online-casinos-myanmar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/best-online-casinos-myanmar.html"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://myancasino.com/best-online-casino-sites-myanmar.html</loc>
-    <lastmod>2026-04-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/best-online-casino-sites-myanmar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/best-online-casino-sites-myanmar.html"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://myancasino.com/pv991-online-casino-myanmar.html</loc>
-    <lastmod>2026-04-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/pv991-online-casino-myanmar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/pv991-online-casino-myanmar.html"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://myancasino.com/mwd777-myanmar.html</loc>
-    <lastmod>2026-04-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/mwd777-myanmar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/mwd777-myanmar.html"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://myancasino.com/jdbyg-myanmar.html</loc>
-    <lastmod>2026-04-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/jdbyg-myanmar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/jdbyg-myanmar.html"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://myancasino.com/gkk777-myanmar.html</loc>
-    <lastmod>2026-04-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="my-MM" href="https://myancasino.com/gkk777-myanmar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://myancasino.com/gkk777-myanmar.html"/>
+    <lastmod>2026-07-04</lastmod>
   </url>
 </urlset>
